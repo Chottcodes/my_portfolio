@@ -26,7 +26,7 @@ export default function AboutMeComponent() {
           <div className="flex items-start space-x-3">
             <Code className="text-[#EAE3C9]/70 mt-1 flex-shrink-0" size={20} />
             <p className="text-[#EAE3C9]/90">
-              Hi, I'm <span className="text-[#EAE3C9] font-medium">Chris Hott</span>, a full-stack developer with a year of hands-on
+              Hi, Im <span className="text-[#EAE3C9] font-medium">Chris Hott</span>, a full-stack developer with a year of hands-on
               coding experience. I specialize in building modern web applications
               using <span className="text-[#EAE3C9] font-medium">Next.js (React), TypeScript, and C#</span>, and I thrive in
               collaborative environments as a strong team player and communicator.
@@ -36,7 +36,7 @@ export default function AboutMeComponent() {
           <div className="flex items-start space-x-3">
             <Bike className="text-[#EAE3C9]/70 mt-1 flex-shrink-0" size={20} />
             <p className="text-[#EAE3C9]/90">
-              I'm currently leading the development of <span className="text-[#EAE3C9] font-medium italic">Let's Ride</span>, a social app for
+              Im currently leading the development of <span className="text-[#EAE3C9] font-medium italic">Lets Ride</span>, a social app for
               motorcycle riders, where I manage both frontend and backend efforts.
             </p>
           </div>
@@ -44,7 +44,7 @@ export default function AboutMeComponent() {
           <div className="flex items-start space-x-3">
             <Music className="text-[#EAE3C9]/70 mt-1 flex-shrink-0" size={20} />
             <p className="text-[#EAE3C9]/90">
-              Outside of coding, I'm also a passionate musician with a love for creating and performing.
+              Outside of coding, Im also a passionate musician with a love for creating and performing.
             </p>
           </div>
         </div>
