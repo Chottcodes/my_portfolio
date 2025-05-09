@@ -1,6 +1,8 @@
+"use client"
 import Image from "next/image";
 import React from "react";
 import cardData from "../data/cardData.json";
+import { motion } from "framer-motion";
 
 const SkillsComponent = () => {
   return (
@@ -9,18 +11,19 @@ const SkillsComponent = () => {
         <h2>Technical Skills</h2>
       </div>
       <main className="h-[80%] w-full flex">
-        <div className="h-full w-[50%] flex justify-evenly items-center relative">
-          {cardData.map((data, index) => (
+        <motion.div animate={{x: ["0%","-50%"]}} transition={{repeat:Infinity, ease:'linear', duration:10}} className="h-full w-[50%] flex justify-between items-center gap-7  relative">
+          {[...cardData,...cardData,...cardData].map((data, index) => (
             <Image
               key={index}
               src={data.imageUrl}
               width={1000}
               height={1000}
               alt={""}
-              className=" object-contain w-[75px] h-[75px]"
+              className=" object-contain w-[75px] h-[75px] hover:w-[100px] hover:h-[100px]"
             />
+       
           ))}
-        </div>
+        </motion.div>
         <div className="w-[50%] h-full relative">
           <Image
             src={"/assets/images/codingImage.jpg"}
