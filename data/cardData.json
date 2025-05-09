@@ -1,0 +1,23 @@
+[
+    {
+      "name": "C#",
+      "imageUrl": "/assets/images/c-sharp.png"
+    },
+    {
+      "name": "JavaScript",
+      "imageUrl": "/assets/images/js.png"
+    },
+    {
+      "name": "TypeScript",
+      "imageUrl": "/assets/images/typescript.png"
+    },
+    {
+      "name": "Next.js",
+      "imageUrl": "/assets/images/NextJs.png"
+    },
+    {
+      "name": "Azure",
+      "imageUrl": "/assets/images/azure.png"
+    }
+  ]
+  
