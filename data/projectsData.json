@@ -1,0 +1,55 @@
+[
+    {
+        "name":"Lets Ride",
+        "projectImage":"/assets/images/LRDesktop.png",
+        "description":"A community-driven, mobile-first platform empowering motorcycle riders to discover and share their favorite routes through real-time geolocation and interactive Mapbox integration.",
+        "skills":[
+            {"skillName":"Next.js",
+            "skillImage":"/assets/images/NextJs.png"},
+            {"skillName":"C#",
+            "skillImage":"/assets/images/c-sharp.png"},
+            {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"},
+            {"skillName":"SQl",
+            "skillImage":"/assets/images/sql-server.png"}
+         
+        ],
+        "vercel":"lets-ride-fullstack.vercel.app",
+        "github":"https://github.com/Chottcodes/lets_ride_fullstack"
+    },
+    {
+        "name": "Pokémon Explorer",
+        "projectImage":"/assets/images/PokemonApp.png",
+"description": "An interactive application that lets users search for any Pokémon and instantly access detailed character information. Favorites can be saved locally for quick access anytime.",
+        "skills":[
+            {"skillName":"Next.js",
+            "skillImage":"/assets/images/NextJs.png"},
+            {"skillName":"HTML",
+            "skillImage":"/assets/images/html.png"},
+            {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"},
+            {"skillName":"CSS",
+            "skillImage":"/assets/images/css-3.png"}
+         
+        ],
+        "vercel":"pokimon-in-next.vercel.app",
+        "github":"https://github.com/Chottcodes/pokimon_in_next"
+    },
+    {
+       "name": "Kitchen Cookware",
+       "projectImage":"/assets/images/KitchenCookware.png",
+"description": "A fully responsive website built with HTML and CSS, designed to showcase premium kitchen cookware with a sleek and user-friendly interface.",
+        "skills":[
+           
+            {"skillName":"HTML",
+            "skillImage":"/assets/images/html.png"},
+            {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"},
+            {"skillName":"CSS",
+            "skillImage":"/assets/images/css-3.png"}
+         
+        ],
+        "vercel":"cook-ware-website.vercel.app",
+        "github":"https://github.com/Chottcodes/CookWare-Website"
+    }
+]

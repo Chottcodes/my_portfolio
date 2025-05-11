@@ -8,6 +8,10 @@
       "imageUrl": "/assets/images/js.png"
     },
     {
+      "name": "Atom",
+      "imageUrl": "/assets/images/atom.png"
+    },
+    {
       "name": "TypeScript",
       "imageUrl": "/assets/images/typescript.png"
     },
@@ -18,6 +22,18 @@
     {
       "name": "Azure",
       "imageUrl": "/assets/images/azure.png"
+    },
+    {
+      "name": "Photoshop",
+      "imageUrl": "/assets/images/adobe-photoshop.png"
+    },
+    {
+      "name": "SQL",
+      "imageUrl": "/assets/images/sql-server.png"
+    },
+    {
+      "name": "Figma",
+      "imageUrl": "/assets/images/figma.png"
     }
   ]
   

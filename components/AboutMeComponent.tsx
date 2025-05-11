@@ -8,9 +8,7 @@ export default function AboutMeComponent() {
       <div className="absolute top-0 left-0 w-32 h-32 bg-gradient-to-r from-[#EAE3C9]/10 to-transparent rounded-full blur-xl"></div>
       <div className="absolute bottom-0 right-0 w-40 h-40 bg-gradient-to-l from-[#EAE3C9]/10 to-transparent rounded-full blur-xl"></div>
       
-      {/* Animated code brackets */}
-      <div className="absolute left-4 top-1/4 text-4xl text-[#EAE3C9]/5 font-mono">{`{ }`}</div>
-      <div className="absolute right-4 bottom-1/4 text-4xl text-[#EAE3C9]/5 font-mono">{`< />`}</div>
+
       
       <div className="max-w-3xl w-full bg-black/40 backdrop-blur-md rounded-2xl shadow-2xl p-8 md:p-10 border border-[#EAE3C9]/20 relative z-10">
         {/* Glass effect decorative corner */}
