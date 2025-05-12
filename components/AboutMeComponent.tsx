@@ -39,11 +39,11 @@ export default function AboutMeComponent() {
           <div className="flex items-start space-x-3">
             <Bike className="text-[#EAE3C9]/70 mt-1 flex-shrink-0" size={20} />
             <p className="text-[#EAE3C9]/90">
-              I'm currently leading the development of{" "}
+              Im currently leading the development of {' '}
               <span className="text-[#EAE3C9] font-medium italic">
-                Lets Ride
+               Lets Ride
               </span>{" "}
-              — a GPS-powered app designed for motorcycle riders — overseeing
+                a GPS powered app designed for motorcycle riders  overseeing
               both frontend and backend development.
             </p>
           </div>
