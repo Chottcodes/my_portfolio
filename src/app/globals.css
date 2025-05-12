@@ -56,4 +56,23 @@ body {
   width: max-content;
 }
 
+.custom-scrollbar::-webkit-scrollbar {
+  height: 8px; 
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #EAE3C9; 
+  border-radius: 10px;
+  border: 2px solid #151515; 
+}
+
+
+.custom-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #EAE3C9 #151515;
+}
 
