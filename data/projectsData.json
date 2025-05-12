@@ -8,13 +8,13 @@
             "skillImage":"/assets/images/NextJs.png"},
             {"skillName":"C#",
             "skillImage":"/assets/images/c-sharp.png"},
-            {"skillName":"Figma",
-            "skillImage":"/assets/images/figma.png"},
             {"skillName":"SQl",
-            "skillImage":"/assets/images/sql-server.png"}
+            "skillImage":"/assets/images/sql-server.png"},
+             {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"}
          
         ],
-        "vercel":"lets-ride-fullstack.vercel.app",
+        "vercel":"https://lets-ride-fullstack.vercel.app",
         "github":"https://github.com/Chottcodes/lets_ride_fullstack"
     },
     {
@@ -26,13 +26,13 @@
             "skillImage":"/assets/images/NextJs.png"},
             {"skillName":"HTML",
             "skillImage":"/assets/images/html.png"},
-            {"skillName":"Figma",
-            "skillImage":"/assets/images/figma.png"},
             {"skillName":"CSS",
-            "skillImage":"/assets/images/css-3.png"}
+            "skillImage":"/assets/images/css-3.png"},
+            {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"}
          
         ],
-        "vercel":"pokimon-in-next.vercel.app",
+        "vercel":"https://pokimon-in-next.vercel.app",
         "github":"https://github.com/Chottcodes/pokimon_in_next"
     },
     {
@@ -43,13 +43,13 @@
            
             {"skillName":"HTML",
             "skillImage":"/assets/images/html.png"},
-            {"skillName":"Figma",
-            "skillImage":"/assets/images/figma.png"},
             {"skillName":"CSS",
-            "skillImage":"/assets/images/css-3.png"}
+            "skillImage":"/assets/images/css-3.png"},
+            {"skillName":"Figma",
+            "skillImage":"/assets/images/figma.png"}
          
         ],
-        "vercel":"cook-ware-website.vercel.app",
+        "vercel":"https://cook-ware-website.vercel.app",
         "github":"https://github.com/Chottcodes/CookWare-Website"
     }
 ]
